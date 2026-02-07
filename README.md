@@ -1,1 +1,1 @@
-# mnist-dataset-classification-
+MNIST Digit Recognition Project
